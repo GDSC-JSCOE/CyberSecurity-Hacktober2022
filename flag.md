@@ -105,3 +105,30 @@
 - Authentication
 
 > **ANSWER HERE : **  
+
+**13. Governments hired some highly skilled hackers for providing cyber security for the country or state. These types of hackers are termed as**
+
+- Nation / State sponsored hackers
+- CIA triad
+- Special Hackers
+- Government Hackers
+
+> **ANSWER HERE : **  
+
+**14. Which of the following is a component of cyber security?**
+
+- Internet Of Things
+- AI
+- Database
+- Attacks
+
+> **ANSWER HERE : **  
+
+**15. Which of the following is defined as an attempt to steal, spy, damage or destroy computer systems, networks, or their associated information?
+
+- Cyber attack
+- Computer security
+- Cryptography
+- Digital hacking
+
+> **ANSWER HERE : **  
