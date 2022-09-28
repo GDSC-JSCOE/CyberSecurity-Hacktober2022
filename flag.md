@@ -26,17 +26,19 @@
 > **ANSWER HERE : ** 
 
 **4. Which of the following describes a method of hacking in which cybercriminals create fake online domains under an aim to dupe or collect an excessive traffic number?**
-	Mimicking 
-	Spamming 
-	Pharming
-	Website-Cloning
+
+- Mimicking 
+- Spamming 
+- Pharming
+- Website-Cloning
 
 > **ANSWER HERE : ** 
 
 **5. A cyber-criminal or penetration tester uses the additional data that stores certain special instructions in the memory for activities to break the system in which of the following attack?**
-Clickjacking
-Buffer-overflow
-Phishing
-MiTM
+
+- Clickjacking
+- Buffer-overflow
+- Phishing
+- MiTM
 
 > **ANSWER HERE : ** 
