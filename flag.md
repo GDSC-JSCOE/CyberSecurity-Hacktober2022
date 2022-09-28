@@ -8,18 +8,20 @@
 > **ANSWER HERE : ** 
 
 **2. “Cyberspace” was coined by _________**
-Richard Stallman
-William Gibson
-Andrew Tannenbaum
-Scott Fahlman
+
+- Richard Stallman
+- William Gibson
+- Andrew Tannenbaum
+- Scott Fahlman
 
 > **ANSWER HERE : ** 
 
 **3.  In which year has hacking become a practical crime and a matter of concern in the field of cyber technology?**
-1991
-1983
-1970
-1964
+
+- 1991
+- 1983
+- 1970
+- 1964
 
 > **ANSWER HERE : ** 
 
