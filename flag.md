@@ -69,3 +69,39 @@
 - DoS attack
 
 > **ANSWER HERE : ** 
+
+**9. Which of the following term refers to a group of hackers who are both white and black hat?**
+
+- Black Hat 
+- Gray Hat
+- White Hat
+- Green Hat
+
+> **ANSWER HERE : **  
+
+**10. Which of the following is the least strong security encryption standard?** 
+
+- WPA3
+- WPA2
+- WPA
+- WEP
+
+> **ANSWER HERE : **  
+
+**11. Which of the following ethical hacking technique is used for determining which operating system (OS) is running on a remote computer?**
+
+- Operating System fingerprinting
+- Operating System penetration testing
+- Digital-printing
+- Machine printing
+
+> **ANSWER HERE : **  
+
+**12. Which of the following can diminish the chance of data leakage?**
+
+- Steganography
+- Chorography
+- Cryptography
+- Authentication
+
+> **ANSWER HERE : **  
