@@ -42,3 +42,30 @@
 - MiTM
 
 > **ANSWER HERE : ** 
+
+**6. They are nefarious hackers, and their main motive is to gain financial profit by doing cyber crimes. Who are “they” referred to here?**
+
+- White Hat Hackers
+- Black Hat Hackers
+- Hactivists
+- Gray Hat Hackers
+
+> **ANSWER HERE : ** 
+
+**7. What is the existence of weakness in a system or network is known as?**
+
+- Attack
+- Exploit
+- Vulnerability
+- Threat
+
+> **ANSWER HERE : ** 
+
+**8. Which of the following is an internet scam done by cyber-criminals where the user is convinced digitally to provide confidential information.**
+
+- MiTM attack
+- Phishing attack
+- Website attack
+- DoS attack
+
+> **ANSWER HERE : ** 
