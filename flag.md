@@ -1,8 +1,8 @@
 **1. As a form of cybercrime, which of the following is an option?**
-	Phishing 
-	SQL Injection
-	Evil Twin 
-	All of the above
+	- Phishing 
+	- SQL Injection
+	- Evil Twin 
+	- All of the above
 
 > **ANSWER HERE : ** 
 
