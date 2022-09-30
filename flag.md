@@ -5,7 +5,7 @@
 - Evil Twin 
 - All of the above
 
-> **ANSWER HERE : ** 
+> All of the Above
 
 **2. “Cyberspace” was coined by _________**
 
