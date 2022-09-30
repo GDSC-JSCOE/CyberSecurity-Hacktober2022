@@ -95,7 +95,7 @@
 - Digital-printing
 - Machine printing
 
-> **ANSWER HERE : **  
+> Operating System fingerprinting
 
 **12. Which of the following can diminish the chance of data leakage?**
 
