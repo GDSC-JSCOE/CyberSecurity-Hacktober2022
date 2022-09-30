@@ -32,6 +32,15 @@
 - Pharming
 - Website-Cloning
 
+*3.  In which year has hacking become a practical crime and a matter of concern in the field of cyber technology?**
+
+- 1991
+- 1983
+- 1970
+- 1960
+
+> 1970
+
 > **ANSWER HERE : ** 
 
 **5. A cyber-criminal or penetration tester uses the additional data that stores certain special instructions in the memory for activities to break the system in which of the following attack?**
