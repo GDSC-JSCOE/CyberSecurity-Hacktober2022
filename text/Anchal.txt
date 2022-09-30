@@ -1,0 +1,2 @@
+  Que. What is Cyber Security?
+  Cyber Security is the practice of Protecting computers, mobile devices, Servers, electronic Systems, networks, and data from malicious attacks. It’s also known as Information Security (INFOSEC), Information Assurance (IA), or System Security. Cyber Security is important because the government, Corporate, medical organizations collect, military, financial, process, and store the unprecedented amount of data on a computer and other property, personal information, or exposure could have negative consequences. 
