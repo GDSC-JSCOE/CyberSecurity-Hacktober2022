@@ -1,2 +1,3 @@
 what is meant by  cybersecurity?  
 cybersecurity is the practice of protecting systems,networks,and programs from digital attacks.
+Cyber security is the application of technologies, processes, and controls to protect systems, networks, programs, devices and data from cyber attacks. It aims to reduce the risk of cyber attacks and protect against the unauthorised exploitation of systems, networks, and technologies.
