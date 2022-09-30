@@ -23,7 +23,7 @@
 - 1970
 - 1964
 
-> **ANSWER HERE : ** 
+> 1970
 
 **4. Which of the following describes a method of hacking in which cybercriminals create fake online domains under an aim to dupe or collect an excessive traffic number?**
 
