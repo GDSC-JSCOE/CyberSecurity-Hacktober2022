@@ -77,7 +77,7 @@
 - White Hat
 - Green Hat
 
-> **ANSWER HERE : **  
+> **Gray Hat : **  
 
 **10. Which of the following is the least strong security encryption standard?** 
 
@@ -86,7 +86,7 @@
 - WPA
 - WEP
 
-> **ANSWER HERE : **  
+> **WEP : **  
 
 **11. Which of the following ethical hacking technique is used for determining which operating system (OS) is running on a remote computer?**
 
