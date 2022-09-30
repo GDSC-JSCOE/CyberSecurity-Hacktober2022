@@ -131,4 +131,14 @@
 - Cryptography
 - Digital hacking
 
+> **ANSWER HERE : ** 
+
+
+**25. What is the need of cybersecurity?**
+
+- To solve cyber attack
+- Computer security
+- Cryptography
+- Digital hacking
+
 > **ANSWER HERE : **  
