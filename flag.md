@@ -174,3 +174,20 @@ answer:Pharming
 
 > **ANSWER HERE : Spyware 
 
+**19.
+Identify the term which denotes that only authorized users are capable of accessing the information**
+-confidentiality
+-availability
+-Integrity
+-non-repudation
+
+> **ANSWER HERE : availability
+
+
+
+
+
+
+
+
+
