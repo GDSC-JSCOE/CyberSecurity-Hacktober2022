@@ -174,3 +174,12 @@ answer:Pharming
 
 > **ANSWER HERE : Spyware 
 
+
+**19.Who is father of computer security?**
+
+-Aygust Kerckhoffs
+-Bob Thomas
+-Robert 
+-Charles
+
+>**ANSWER HERE : August Kerckhoffs
