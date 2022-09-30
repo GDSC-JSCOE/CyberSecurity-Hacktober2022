@@ -50,7 +50,7 @@
 - Hactivists
 - Gray Hat Hackers
 
-> **ANSWER HERE : ** 
+> Black Hat Hackers 
 
 **7. What is the existence of weakness in a system or network is known as?**
 
