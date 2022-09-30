@@ -104,7 +104,7 @@
 - Cryptography
 - Authentication
 
-> **ANSWER HERE : **  
+> Steganography 
 
 **13. Governments hired some highly skilled hackers for providing cyber security for the country or state. These types of hackers are termed as**
 
