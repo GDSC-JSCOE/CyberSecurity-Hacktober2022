@@ -1,0 +1,8 @@
+## 11. Which of the following ethical hacking technique is used for determining which operating system (OS) is running on a remote computer?
+
+- Operating System fingerprinting
+- Operating System penetration testing
+- Digital-printing
+- Machine printing
+
+**ANSWER HERE : Operating System fingerprinting
