@@ -5,7 +5,7 @@
 - Evil Twin 
 - All of the above
 
-> **ANSWER HERE : ** 
+> **ANSWER HERE : **  All of the above
 
 **2. “Cyberspace” was coined by _________**
 
@@ -14,7 +14,7 @@
 - Andrew Tannenbaum
 - Scott Fahlman
 
-> **ANSWER HERE : ** 
+> **ANSWER HERE : **   
 
 **3.  In which year has hacking become a practical crime and a matter of concern in the field of cyber technology?**
 
@@ -23,7 +23,7 @@
 - 1970
 - 1964
 
-> **ANSWER HERE : ** 
+> **ANSWER HERE : ** 1970
 
 **4. Which of the following describes a method of hacking in which cybercriminals create fake online domains under an aim to dupe or collect an excessive traffic number?**
 
@@ -41,7 +41,7 @@
 - Phishing
 - MiTM
 
-> **ANSWER HERE : ** 
+> **ANSWER HERE : **Buffer-overflow 
 
 **6. They are nefarious hackers, and their main motive is to gain financial profit by doing cyber crimes. Who are “they” referred to here?**
 
