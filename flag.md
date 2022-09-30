@@ -1,4 +1,4 @@
-**1. As a form of cybercrime, which of the following is an option?**
+7**1. As a form of cybercrime, which of the following is an option?**
 
 - Phishing 
 - SQL Injection
@@ -59,7 +59,7 @@
 - Vulnerability
 - Threat
 
-> **ANSWER HERE : ** 
+> Vulnerability
 
 **8. Which of the following is an internet scam done by cyber-criminals where the user is convinced digitally to provide confidential information.**
 
