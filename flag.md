@@ -134,11 +134,21 @@
 > **ANSWER HERE : Cyber attack
 
 
-**25. What is the need of cybersecurity?**
+**16. What is the need of cybersecurity?**
 
 - To solve cyber attack
 - Computer security
 - Cryptography
 - Digital hacking
 
-> ** to solve yber attack: **  
+> ** to solve cyber attack: **  
+
+**17. What is OSINT?**
+
+- Open-source intelligence
+- Open-service intelligence
+- Open-secure intelligence
+- OWASP-source intelligence
+
+> **ANSWER HERE : Open-source intelligence 
+
