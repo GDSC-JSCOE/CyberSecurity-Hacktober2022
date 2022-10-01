@@ -43,7 +43,7 @@ answer:Pharming
 
 > 1970
 
-> **ANSWER HERE : ** 
+> **ANSWER HERE : *1970* 
 
 **5. A cyber-criminal or penetration tester uses the additional data that stores certain special instructions in the memory for activities to break the system in which of the following attack?**
 
