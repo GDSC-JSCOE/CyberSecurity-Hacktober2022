@@ -183,3 +183,12 @@ answer:Pharming
 -Charles
 
 >**ANSWER HERE : August Kerckhoffs
+
+**20.Which of the following is a type of cyber security?**
+
+-Cloud Security
+-Network Security
+-Application Security
+-All of the above
+
+>**ANSWER HERE : All of the above
