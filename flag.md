@@ -192,3 +192,11 @@ answer:Pharming
 -All of the above
 
 >**ANSWER HERE : All of the above
+
+**21.Which of the following is not a cybercrime?**
+ -Denial of Service
+ -Man in the Middle
+ -Malware
+ -AES
+
+>**ANSWER HERE : AES
