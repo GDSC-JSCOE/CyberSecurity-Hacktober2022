@@ -1,0 +1,2 @@
+Q: what is cybersecurity
+ANS: Cyber security can be described as the collective methods, technologies, and processes to help protect the confidentiality, integrity, and availability of computer systems, networks and data, against cyber-attacks or unauthorized access
