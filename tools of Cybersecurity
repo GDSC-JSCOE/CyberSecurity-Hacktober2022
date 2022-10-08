@@ -1,0 +1,48 @@
+No computer system or network, however secure and sophisticated, is safe from today’s hackers who keep developing new ways of compromising computer systems. As a result, cybersecurity tools are necessary to secure these networks from a variety of cyberattacks. Cybersecurity tools monitor the IT environment and report any vulnerabilities or security-related weaknesses that can be exploited by hackers.
+
+They also prevent unauthorized access to confidential business data and report any suspicious activity happening on the backend infrastructure. Cybersecurity tools can also set up secure firewall protection to block unauthorized requests and secure the entire network – thus preventing cyberattacks from being successful.
+
+Top 10 Cyber Security Tools in 2022
+Thanks to the diverse forms of cyberattacks, there are different types of cybersecurity tools, including:
+
+Firewall tools
+Penetration testing tools
+Network defense tools
+Network vulnerability scanning tools
+Encryption tools
+Network security tools
+Packet sniffers
+Antivirus software
+1. Wireshark
+
+Wireshark is a free and open-source cybersecurity tool that can analyze network protocols and can be used to enhance network security. Packet-sniffing in this console-based tool can monitor your network in real-time, along with network traffic at different levels. Cybersecurity professionals use this security tool to identify any network security weaknesses by capturing and analyzing data packets.
+
+Key features:
+
+Decryption protocol support for multiple network protocols
+Three-pane packet browser
+Live capture and offline analysis.
+Supports output formats including XML, CSV, and Plain Text
+Supports file decompressing captured in gzips
+Supported on MS Windows, macOS, Solaris, and FreeBSD
+2. Metasploit
+
+Available through free and paid versions, Metasploit uses penetration testing to identify any vulnerability in the entire network or system – and can enable organizations to run security tests and data analysis, which can enhance overall security. Popularly known as the hacking tool, this security product is to test the security score of different systems, including web applications, computer networks, servers, and much more.
+
+Key features:
+
+Effective in detecting over 1500 exploits in a network segmentation
+Vulnerability tools that enables dividing the penetration testing workflow into smaller and manageable tasks
+Web-based interface with Metasploit Pro that performs security assessments and validations on databases
+The open-source version available for free for software developers
+Detecting any new vulnerability in network security
+3. Cain and Abel
+
+Among the earliest cybersecurity tools to be released in the market, Cain and Abel were originally used to discover vulnerabilities in the Windows operating system. This tool can also be used for recovering passwords and to record VoIP communications. Through network sniffing, this penetration testing tool can crack encrypted passwords using brute force attacks. Apart from recovering passwords, Cain and Abel can analyse routing protocols in network systems to determine which data packets are prone to hacking.
+
+Key Features: 
+
+Effective at cryptanalysis and decoding of scrambled passwords.
+Useful for decoding cached passwords, password boxes, and decryption of brute force attacks
+APR Poison Routing mechanism that allows sniffing on switched LANs and Man in the Middle (MitM) attacks
+It supports the analysis of encrypted protocols such as HTTPS and SSH-1.
