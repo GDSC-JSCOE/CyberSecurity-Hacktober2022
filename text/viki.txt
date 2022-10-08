@@ -1,0 +1,2 @@
+Que: Why do we need Cyber Security?
+ Cybersecurity is crucial because it safeguards all types of data against theft and loss. Sensitive data, protected health information (PHI), personally identifiable information (PII), intellectual property, personal information, data, and government and business information systems are all included.
