@@ -1,4 +1,4 @@
-7**1. As a form of cybercrime, which of the following is an option?**
+**1. As a form of cybercrime, which of the following is an option?**
 
 - Phishing 
 - SQL Injection
