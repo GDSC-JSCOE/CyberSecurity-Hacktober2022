@@ -23,7 +23,7 @@
 - 1970
 - 1964
 
-> 1970
+> 19991
 
 **4. Which of the following describes a method of hacking in which cybercriminals create fake online domains under an aim to dupe or collect an excessive traffic number?**
 
@@ -52,7 +52,7 @@ answer:Pharming
 - Phishing
 - MiTM
 
-> Buffer-overflow 
+>click jerking
 
 **6. They are nefarious hackers, and their main motive is to gain financial profit by doing cyber crimes. Who are “they” referred to here?**
 
