@@ -1,0 +1,7 @@
+14. Which of the following is a component of cyber security?
+
+Internet Of Things
+AI
+Database
+Attacks
+ANSWER HERE : Attacks
