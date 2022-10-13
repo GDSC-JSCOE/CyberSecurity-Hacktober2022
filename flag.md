@@ -177,26 +177,26 @@ answer:Pharming
 
 **19.Who is father of computer security?**
 
--Aygust Kerckhoffs
--Bob Thomas
--Robert 
--Charles
+- Aygust Kerckhoffs
+- Bob Thomas
+- Robert 
+- Charles
 
 >**ANSWER HERE : August Kerckhoffs
 
 **20.Which of the following is a type of cyber security?**
 
--Cloud Security
--Network Security
--Application Security
--All of the above
+- Cloud Security
+- Network Security
+- Application Security
+- All of the above
 
 >**ANSWER HERE : All of the above
 
 **21.Which of the following is not a cybercrime?**
- -Denial of Service
- -Man in the Middle
- -Malware
- -AES
+- Denial of Service
+- Man in the Middle
+- Malware
+- AES
 
 >**ANSWER HERE : AES
