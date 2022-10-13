@@ -1,0 +1,8 @@
+**Q-Which of the following is a type of cyber security?**
+
+- Cloud Security
+- Network Security
+- Application Security
+- All of the above
+
+**ANSWER HERE : All of the above
