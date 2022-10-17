@@ -1,4 +1,4 @@
-7**1. As a form of cybercrime, which of the following is an option?**
+**1. As a form of cybercrime, which of the following is an option?**
 
 - Phishing 
 - SQL Injection
@@ -43,7 +43,7 @@ answer:Pharming
 
 > 1970
 
-> **ANSWER HERE : ** 
+> **ANSWER HERE : *1970* 
 
 **5. A cyber-criminal or penetration tester uses the additional data that stores certain special instructions in the memory for activities to break the system in which of the following attack?**
 
@@ -177,12 +177,13 @@ answer:Pharming
 
 **19.Who is father of computer security?**
 
--Aygust Kerckhoffs
--Bob Thomas
--Robert 
--Charles
+- Aygust Kerckhoffs
+- Bob Thomas
+- Robert 
+- Charles
 
 >**ANSWER HERE : August Kerckhoffs
+
 
 **20.What are the features of cyber security?**
 
@@ -192,3 +193,22 @@ answer:Pharming
 -All of the above
 
 >**ANSWER HERE : All of the above
+
+**21.Which of the following is a type of cyber security?**
+
+- Cloud Security
+- Network Security
+- Application Security
+- All of the above
+
+>**ANSWER HERE : All of the above
+
+**21.Which of the following is not a cybercrime?**
+- Denial of Service
+- Man in the Middle
+- Malware
+- AES
+
+>**ANSWER HERE : AES
+>I answer some [UN1QU3-py](https://github.com/UN1QU3-py)
+
