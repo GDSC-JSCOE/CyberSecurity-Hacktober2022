@@ -183,3 +183,12 @@ answer:Pharming
 -Charles
 
 >**ANSWER HERE : August Kerckhoffs
+
+**20.What are the features of cyber security?**
+
+-Compliance
+-Defense against internal threats
+-Threat Prevention 
+-All of the above
+
+>**ANSWER HERE : All of the above
