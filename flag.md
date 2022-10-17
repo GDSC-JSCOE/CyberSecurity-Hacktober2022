@@ -184,7 +184,17 @@ answer:Pharming
 
 >**ANSWER HERE : August Kerckhoffs
 
-**20.Which of the following is a type of cyber security?**
+
+**20.What are the features of cyber security?**
+
+-Compliance
+-Defense against internal threats
+-Threat Prevention 
+-All of the above
+
+>**ANSWER HERE : All of the above
+
+**21.Which of the following is a type of cyber security?**
 
 - Cloud Security
 - Network Security
@@ -201,3 +211,4 @@ answer:Pharming
 
 >**ANSWER HERE : AES
 >I answer some [UN1QU3-py](https://github.com/UN1QU3-py)
+
