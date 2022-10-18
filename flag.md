@@ -201,3 +201,12 @@ answer:Pharming
 
 >**ANSWER HERE : AES
 >I answer some [UN1QU3-py](https://github.com/UN1QU3-py)
+
+**22.Identify the type of symmetric key algorithm which uses a streaming cipher to encrypt information.?**
+
+- SHA
+- MD5
+- RC4
+- Blowfish
+
+>**ANSWER HERE : RC4
