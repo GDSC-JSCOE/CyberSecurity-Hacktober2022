@@ -191,7 +191,7 @@ answer:Pharming
 - Application Security
 - All of the above
 
->**ANSWER HERE : All of the above
+>**ANSWER HERE :All of the above
 
 **21.Which of the following is not a cybercrime?**
 - Denial of Service
