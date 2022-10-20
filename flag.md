@@ -201,3 +201,11 @@ answer:Pharming
 
 >**ANSWER HERE : AES
 >I answer some [UN1QU3-py](https://github.com/UN1QU3-py)
+
+**23.Why is Code red?**
+- Antivirus
+- Virus
+- Spam
+- WPS
+
+>**ANSWER HERE : Virus
