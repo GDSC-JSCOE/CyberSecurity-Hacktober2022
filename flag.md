@@ -209,3 +209,22 @@ answer:Pharming
 - WPS
 
 >**ANSWER HERE : Virus
+
+**24.Which of the following is used for monitoring traffic and analyzing network flow?**
+
+- Cloud access security broker
+- Network trafic analysis
+- Network security firewall
+- Managed detection and response
+
+>**ANSWER HERE : Network trafic analysis
+
+**25.Identify the maximum character which Linux OS supports in its file names.**
+
+- 32
+- 64
+- 128
+- 256
+
+>**ANSWER HERE : 256
+
