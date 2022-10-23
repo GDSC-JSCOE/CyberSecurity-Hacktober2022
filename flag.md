@@ -209,3 +209,12 @@ answer:Pharming
 - WPS
 
 >**ANSWER HERE : Virus
+
+**24. Which of the following can diminish the chance of data leakage?**
+
+- Steganography
+- Chorography
+- Cryptography
+- Authentication
+
+> **ANSWER HERE : Steganography 
